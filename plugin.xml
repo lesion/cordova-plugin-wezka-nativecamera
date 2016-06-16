@@ -53,7 +53,7 @@
         <config-file target="AndroidManifest.xml" parent="/manifest/application">
             <activity 
                 android:label="nativecameraplugin" 
-                android:name="org.wbt11a.nativecamera.CameraActivity" 
+                android:name="com.wezka.nativecamera.CameraActivity" 
                 android:screenOrientation="portrait" 
                 android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
             </activity>
