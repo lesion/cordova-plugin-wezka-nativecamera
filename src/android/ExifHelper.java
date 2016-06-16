@@ -16,7 +16,9 @@
        specific language governing permissions and limitations
        under the License.
 */
-package org.wbt11a.nativecamera;
+       
+// package org.wbt11a.nativecamera;
+package com.wezka.nativecamera;
 
 import java.io.IOException;
 
